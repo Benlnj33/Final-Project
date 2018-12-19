@@ -4,18 +4,41 @@
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  height: 620px;
-  width: 1500px;
-  padding: 0px!important;
-  margin: 0px;
+  height: 850px;
+  width: 1525px;
+  padding: 0!important;
+  margin: 0!important;
+  text-align:center;
+  vertical-align:bottom;
 }
 
 .yeet {
   font-size: 30px;
   color: white;
+  padding: 0!important;
+
+
 }
 
 .yeet1 {
-  fontsize: 50px;
+  font-size: 50px;
   color: white;
+  padding: 0!important;
+}
+
+.MyButton {
+  width: 300px;
+  padding: 20px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 150%;
+  background: #3366cc;
+  color: #fff;
+  border: 1px solid #3366cc;
+  border-radius: 10px;
+}
+.MyButton:hover {
+  color: #ffff00;
+  background: #000;
+  border: 1px solid #fff;
 }
