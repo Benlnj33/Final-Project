@@ -1,7 +1,21 @@
 .bg {
-  background: url('../img/Serverfarm.jpg') no-repeat center center fixed;
+  background: url('../img/bi2.png') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+  height: 620px;
+  width: 1500px;
+  padding: 0px!important;
+  margin: 0px;
+}
+
+.yeet {
+  font-size: 30px;
+  color: white;
+}
+
+.yeet1 {
+  fontsize: 50px;
+  color: white;
 }
