@@ -42,3 +42,25 @@
   background: #000;
   border: 1px solid #fff;
 }
+
+.microsoft{
+  vertical-align: bottom;
+  position: relative;
+  height: 100px;
+  width: 400px;
+  padding-top: 13px;
+  margin: 0 auto;
+
+}
+.netscape{
+  vertical-align: bottom;
+  position: relative;
+  height: 120px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.div-card{
+  height: 180px!important;
+  width: 500px!important;
+}
