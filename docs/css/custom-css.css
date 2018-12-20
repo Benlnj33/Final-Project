@@ -64,3 +64,29 @@
   height: 180px!important;
   width: 500px!important;
 }
+
+.netscape1{
+  vertical-align: bottom;
+  position: relative;
+  height: 80px;
+  width: 264px;
+  margin: 0 auto;
+}
+
+.microsoft1{
+  vertical-align: bottom;
+  position: relative;
+  height: 74px;
+  width: 264px;
+  padding-top: 4px;
+  margin: 0 auto;
+
+}
+
+.windowslogo{
+  height: 150px;
+  width: 600px;
+  margin: 0 auto;
+}
+
+
